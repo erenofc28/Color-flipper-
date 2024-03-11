@@ -1,0 +1,29 @@
+#c{
+    height: 510px;
+    text-align: center;
+    margin-top: 20px;
+}
+#btn{
+    background-color: crimson;
+    color: aliceblue;
+    border: solid black;
+   margin-top: 240px;
+   border-radius: 20px;
+   width: 200px;
+   height: 50px;
+   font-size: larger;
+   font-family: 'sans-serif';
+}
+.h{    
+    color:crimson;
+    font-family: sans-serif;
+    display: inline-flex;
+
+}
+#f{
+    color:crimson;
+    text-align: end;
+    margin-top: 0px;
+    display: inline-flex;
+    margin-left: 960px; ;
+}
